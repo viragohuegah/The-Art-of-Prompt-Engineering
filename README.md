@@ -1,7 +1,7 @@
 # The Art of Prompt Engineering
 
 <center>
-<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX0TGVEN/images/art%20of%20prompt%20eng.jpeg" width="500" alt="Skills Network Logo">
+<img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMSkillsNetwork-GPXX0TGVEN/images/art%20of%20prompt%20eng.jpeg" width="500" alt="Skills Network Logo"></center>
   
 <br>Mentee assignment from IBM Advance AI @ Infinite Learning Course completion of The Art of Prompt Engineering from [CognitiveClass.ai](https://cognitiveclass.ai/courses/course-v1:IBMSkillsNetwork+GPXX0TGVEN+v1)
 
